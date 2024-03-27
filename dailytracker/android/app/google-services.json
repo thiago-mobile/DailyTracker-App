@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "198753581657",
+    "project_id": "dailytracker-c36c9",
+    "storage_bucket": "dailytracker-c36c9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:198753581657:android:6aee38558d13f7fc9fcf48",
+        "android_client_info": {
+          "package_name": "com.example.dailytracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "198753581657-0bqr1pto7vj76ouemg2uq192vbnfojk4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dailytracker",
+            "certificate_hash": "01b0da251a3fea93476766d156df5afcec2ed7da"
+          }
+        },
+        {
+          "client_id": "198753581657-6clgt7hd01efkltc0uis5i6gjk871tg8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtuYddtpVnvGTo5--guLt3Z9tIBECfVBc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "198753581657-6clgt7hd01efkltc0uis5i6gjk871tg8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

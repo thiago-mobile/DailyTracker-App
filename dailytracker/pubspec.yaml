@@ -1,0 +1,116 @@
+name: dailytracker
+description: A new Flutter project
+publish_to: "none"
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.0.6 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  firebase_core: ^2.15.1
+  firebase_auth: ^4.9.0
+  cloud_firestore: ^4.9.1
+  intl: ^0.18.1
+  image_picker: ^1.0.4
+  firebase_storage: ^11.2.8
+  flutter_swipe_action_cell: ^3.1.2
+  flutter_slidable: ^3.0.0
+  shared_preferences: ^2.2.2
+  share_plus: ^7.2.1
+  babylonjs_viewer: ^1.2.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+  # The "flutter_lints" package below contains a set of recommended lints to
+  # encourage good coding practices. The lint set provided by the package is
+  # activated in the `analysis_options.yaml` file located at the root of your
+  # package. See that file for information about deactivating specific lint
+  # rules and activating additional ones.
+
+# For information on the generic Dart part of this file, see the
+# following page: https://dart.dev/tools/pub/pubspec
+
+# The following section is specific to Flutter packages.
+flutter:
+  # The following line ensures that the Material Icons font is
+  # included with your application, so that you can use the icons in
+  # the material Icons class.
+  uses-material-design: true
+
+  # To add assets to your application, add an assets section, like this:
+  assets:
+    - assets/
+
+    # ICONOS
+    - assets/Iconos/habit_tomaragua.png
+    - assets/Iconos/habit_leer.png
+    - assets/Iconos/habit_caminar.png
+    - assets/Iconos/habit_descansar.png
+    - assets/Iconos/habit_ejercicio.png
+    - assets/Iconos/corriendo.png
+    - assets/Iconos/insomnio.png
+    - assets/Iconos/dormirr.png
+    - assets/Iconos/ic_launcher.png
+    - assets/Iconos/crossfit.png
+    - assets/Iconos/cardio.png
+    - assets/Iconos/primera-posicion.png
+    - assets/Iconos/insignia2.png
+    - assets/Iconos/insignia3.png
+    - assets/Iconos/noche.png
+    - assets/Iconos/cerrar-sesion.png
+    - assets/Iconos/user.png
+    - assets/Iconos/trophy.png
+    - assets/Iconos/notification.png
+    - assets/Iconos/flecha.png
+    - assets/Iconos/candado.png
+    - assets/Iconos/compartir.png
+    - assets/Iconos/idioma.png
+    - assets/Iconos/call.png
+    - assets/Iconos/basura.png
+
+  # An image asset can refer to one or more resolution-specific "variants", see
+  # https://flutter.dev/assets-and-images/#resolution-aware
+
+  # For details regarding adding assets from package dependencies, see
+  # https://flutter.dev/assets-and-images/#from-packages
+
+  # To add custom fonts to your application, add a fonts section here,
+  # in this "flutter" section. Each entry in this list should have a
+  # "family" key with the font family name, and a "fonts" key with a
+  # list giving the asset and other descriptors for the font. For
+  # example:
+  fonts:
+    - family: JosefinSans-Bold
+      fonts:
+        - asset: fonts/JosefinSans-Bold.ttf
+
+    - family: JosefinSans-Light
+      fonts:
+        - asset: fonts/JosefinSans-Light.ttf
+
+    - family: JosefinSans-Medium
+      fonts:
+        - asset: fonts/JosefinSans-Medium.ttf
+
+    - family: JosefinSans-Regular
+      fonts:
+        - asset: fonts/JosefinSans-Regular.ttf
+
+    - family: JosefinSans-SemiBold
+      fonts:
+        - asset: fonts/JosefinSans-SemiBold.ttf
+
+    - family: JosefinSans-Thin
+      fonts:
+        - asset: fonts/JosefinSans-Thin.ttf
+
+    - family: MyFlutterApp
+      fonts:
+        - asset: fonts/MyFlutterApp.ttf
