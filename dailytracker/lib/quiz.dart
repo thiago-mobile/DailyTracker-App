@@ -484,7 +484,7 @@ class _QuizPageState extends State<QuizPage> {
                     ),
                     SizedBox(height: 20.0),
                     Container(
-                      height: 80.0,
+                      height: 78.0,
                       child: SingleChildScrollView(
                         scrollDirection: Axis.horizontal,
                         child: Row(
