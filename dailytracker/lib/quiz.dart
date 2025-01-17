@@ -441,9 +441,9 @@ class _QuizPageState extends State<QuizPage> {
                       Navigator.push(context,
                           MaterialPageRoute(builder: (context) => HomePage()));
                     },
-                    icon: Icon(Icons.arrow_back_ios)),
+                    icon: Icon(Icons.home)),
                 backgroundColor: Color(0xFF1B1B1B),
-                expandedHeight: 150.0,
+                expandedHeight: 160.0,
                 floating: false,
                 pinned: true,
                 actions: [

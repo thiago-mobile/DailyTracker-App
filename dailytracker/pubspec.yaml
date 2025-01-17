@@ -11,17 +11,18 @@ dependencies:
   flutter:
     sdk: flutter
   cupertino_icons: ^1.0.2
-  firebase_core: ^2.15.1
-  firebase_auth: ^4.9.0
-  cloud_firestore: ^4.9.1
+  firebase_core: ^3.6.0
+  cloud_firestore: ^5.4.4
   intl: ^0.18.1
-  image_picker: ^1.0.4
-  firebase_storage: ^11.2.8
+  image_picker: ^1.1.2
+  firebase_storage: ^12.3.4
   flutter_swipe_action_cell: ^3.1.2
-  flutter_slidable: ^3.0.0
-  shared_preferences: ^2.2.2
-  share_plus: ^7.2.1
+  flutter_slidable: ^3.1.1
+  shared_preferences: ^2.3.2
+  share_plus: ^10.1.1
   babylonjs_viewer: ^1.2.1
+  intl_utils: ^2.8.7
+  firebase_auth: ^5.3.1
 
 dev_dependencies:
   flutter_test:
