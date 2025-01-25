@@ -1,6 +1,6 @@
 ## Daily Tracker
 
-# application submitted for my thesis as a computer technician
+application submitted for my thesis as a computer technician
 
 Daily Tracker is a mobile application that consists of helping the user complete the activities proposed for the day through a fun and intuitive interface.
 
